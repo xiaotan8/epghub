@@ -5,7 +5,7 @@ CWIN:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 C18:
   name:
@@ -14,7 +14,7 @@ C18:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 JUHD:
   name:
@@ -23,7 +23,7 @@ JUHD:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 TVG:
   name:
@@ -32,7 +32,7 @@ TVG:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 J:
   name:
@@ -41,7 +41,7 @@ J:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 B:
   name:
@@ -50,7 +50,7 @@ B:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 C:
   name:
@@ -59,7 +59,7 @@ C:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 P:
   name:
@@ -68,7 +68,7 @@ P:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CTVC:
   name:
@@ -77,7 +77,7 @@ CTVC:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CTVS:
   name:
@@ -86,7 +86,7 @@ CTVS:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CDR3:
   name:
@@ -95,7 +95,7 @@ CDR3:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 TVO:
   name:
@@ -104,7 +104,7 @@ TVO:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CTVE:
   name:
@@ -113,7 +113,7 @@ CTVE:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CCOC:
   name:
@@ -122,7 +122,7 @@ CCOC:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 KID:
   name:
@@ -131,7 +131,7 @@ KID:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 ZOO:
   name:
@@ -140,7 +140,7 @@ ZOO:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CNIKO:
   name:
@@ -149,7 +149,7 @@ CNIKO:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CNIJR:
   name:
@@ -158,7 +158,7 @@ CNIJR:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CCLM:
   name:
@@ -167,7 +167,7 @@ CCLM:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CMAM:
   name:
@@ -176,7 +176,7 @@ CMAM:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CTHR:
   name:
@@ -185,7 +185,7 @@ CTHR:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CCCM:
   name:
@@ -194,7 +194,7 @@ CCCM:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CMC:
   name:
@@ -203,7 +203,7 @@ CMC:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CRTX:
   name:
@@ -212,7 +212,7 @@ CRTX:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 POPC:
   name:
@@ -221,7 +221,7 @@ POPC:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CKIX:
   name:
@@ -230,7 +230,7 @@ CKIX:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 LNH:
   name:
@@ -239,7 +239,7 @@ LNH:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 LN4:
   name:
@@ -248,7 +248,7 @@ LN4:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 GEM:
   name:
@@ -257,7 +257,7 @@ GEM:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 SMS:
   name:
@@ -266,7 +266,7 @@ SMS:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CRTE:
   name:
@@ -275,7 +275,7 @@ CRTE:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CAXN:
   name:
@@ -284,7 +284,7 @@ CAXN:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CANI:
   name:
@@ -293,7 +293,7 @@ CANI:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CJTV:
   name:
@@ -302,7 +302,7 @@ CJTV:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CTS1:
   name:
@@ -311,7 +311,7 @@ CTS1:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CRE:
   name:
@@ -320,7 +320,7 @@ CRE:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 FBX:
   name:
@@ -329,7 +329,7 @@ FBX:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CMEZ:
   name:
@@ -338,7 +338,7 @@ CMEZ:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CC1:
   name:
@@ -348,7 +348,7 @@ CC1:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CGD:
   name:
@@ -357,7 +357,7 @@ CGD:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CGE:
   name:
@@ -366,7 +366,7 @@ CGE:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 DTV:
   name:
@@ -375,7 +375,7 @@ DTV:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 PCC:
   name:
@@ -384,7 +384,7 @@ PCC:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 PIN:
   name:
@@ -393,7 +393,7 @@ PIN:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 PHK:
   name:
@@ -402,7 +402,7 @@ PHK:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CMN1:
   name:
@@ -411,7 +411,7 @@ CMN1:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CTSN:
   name:
@@ -420,7 +420,7 @@ CTSN:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CCNA:
   name:
@@ -429,7 +429,7 @@ CCNA:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CJAZ:
   name:
@@ -438,7 +438,7 @@ CJAZ:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CF24:
   name:
@@ -447,7 +447,7 @@ CF24:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CDW1:
   name:
@@ -456,7 +456,7 @@ CDW1:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CNHK:
   name:
@@ -465,7 +465,7 @@ CNHK:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 CARI:
   name:
@@ -474,7 +474,7 @@ CARI:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 EVT1:
   name:
@@ -483,7 +483,7 @@ EVT1:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 EVT2:
   name:
@@ -492,7 +492,7 @@ EVT2:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 EVT3:
   name:
@@ -501,7 +501,7 @@ EVT3:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 
 EVT4:
@@ -511,7 +511,7 @@ EVT4:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 EVT5:
   name:
@@ -520,7 +520,7 @@ EVT5:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 EVT6:
   name:
@@ -529,7 +529,7 @@ EVT6:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
 
 TEST:
   name:
@@ -538,4 +538,4 @@ TEST:
     mytvsuper: 
   refresh: once
   recap: 7
-  preview: 2
+  preview: 0
