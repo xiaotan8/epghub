@@ -476,6 +476,15 @@ CARI:
   recap: 7
   preview: 0
 
+OL00:
+  name:
+    - 奧運800台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+  
 EVT1:
   name:
     - myTV SUPER直播足球1台
