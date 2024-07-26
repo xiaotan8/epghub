@@ -476,6 +476,15 @@ CARI:
   recap: 7
   preview: 0
 
+ONC:
+  name:
+    - 奧運新聞台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+  
 OL00:
   name:
     - 奧運800台
@@ -485,6 +494,151 @@ OL00:
   recap: 7
   preview: 0
   
+OL01:
+  name:
+    - 奧運801台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+OL02:
+  name:
+    - 奧運802台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+OL03:
+  name:
+    - 奧運803台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+OL04:
+  name:
+    - 奧運804台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+OL05:
+  name:
+    - 奧運805台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+OL06:
+  name:
+    - 奧運806台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+OL07:
+  name:
+    - 奧運807台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+OL08:
+  name:
+    - 奧運808台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+OL09:
+  name:
+    - 奧運809台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+OL10:
+  name:
+    - 奧運810台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+OL11:
+  name:
+    - 奧運811台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+OL12:
+  name:
+    - 奧運812台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+OL13:
+  name:
+    - 奧運813台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+OL14:
+  name:
+    - 奧運814台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+OL15:
+  name:
+    - 奧運815台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+OL16:
+  name:
+    - 奧運816台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+
 EVT1:
   name:
     - myTV SUPER直播足球1台
@@ -543,6 +697,24 @@ EVT6:
 TEST:
   name:
     - 測試頻道
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+C3:
+  name:
+    - 互動窗 1
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+C2:
+  name:
+    - 互動窗 2
   scraper:
     mytvsuper: 
   refresh: today
