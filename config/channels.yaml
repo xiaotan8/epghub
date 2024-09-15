@@ -641,7 +641,7 @@ OL16:
 
 EVT1:
   name:
-    - m28AI智慧賽馬
+    - 28AI智慧賽馬
   scraper:
     mytvsuper: 
   refresh: today
