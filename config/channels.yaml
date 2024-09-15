@@ -641,7 +641,7 @@ OL16:
 
 EVT1:
   name:
-    - myTV SUPER直播足球1台
+    - m28AI智慧賽馬
   scraper:
     mytvsuper: 
   refresh: today
