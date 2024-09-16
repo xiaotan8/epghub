@@ -704,21 +704,3 @@ TEST:
   refresh: today
   recap: 7
   preview: 0
-
-C3:
-  name:
-    - 互動窗 1
-  scraper:
-    mytvsuper: 
-  refresh: today
-  recap: 7
-  preview: 0
-
-C2:
-  name:
-    - 互動窗 2
-  scraper:
-    mytvsuper: 
-  refresh: today
-  recap: 7
-  preview: 0
