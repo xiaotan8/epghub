@@ -704,3 +704,507 @@ TEST:
   refresh: today
   recap: 7
   preview: 0
+102:
+  name:
+    - Viu channel
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+168:
+  name:
+    - MOOV Concert/MV
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+217:
+  name:
+    - Love Nature
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+218:
+  name:
+    - Love Nature 4K
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+222:
+  name:
+    - Crime + Investigation
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+316:
+  name:
+    - CNN International
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+320:
+  name:
+    - BBC News
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+323:
+  name:
+    - Sky News
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+324:
+  name:
+    - DW (English)
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+326:
+  name:
+    - euronews
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+327:
+  name:
+    - France 24
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+328:
+  name:
+    - NHK WORLD-JAPAN
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+329:
+  name:
+    - RT
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+330:
+  name:
+    - CGTN
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+400:
+  name:
+    - Watch N Learn
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+535:
+  name:
+    - Netflix
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+545:
+  name:
+    - CCTV-13
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+552:
+  name:
+    - OneTV General Channel
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+600:
+  name:
+    - Sports Schedule Highlights
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+612:
+  name:
+    - Now Sports 4K 2
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+613:
+  name:
+    - Now Sports 4K 3
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+627:
+  name:
+    - Now Sports Premier League 7
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+641:
+  name:
+    - Now Sports 641
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+646:
+  name:
+    - beIN SPORTS 6
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+650:
+  name:
+    - beIN SPORTS RUGBY
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+651:
+  name:
+    - Now Sports 651
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+670:
+  name:
+    - SPOTV
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+671:
+  name:
+    - SPOTV2
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+681:
+  name:
+    - Now Sports 681
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+711:
+  name:
+    - NHK World Premium
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+721:
+  name:
+    - GMA Life TV
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+722:
+  name:
+    - GMA News TV
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+765:
+  name:
+    - DW Deutsch
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+772:
+  name:
+    - Sony MAX
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+785:
+  name:
+    - Zee News
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+900:
+  name:
+    - Adult Promotional Channel
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+561:
+  name:
+    - ABC Australia
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+325:
+  name:
+    - Al Jazeera English
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+210:
+  name:
+    - Animal Planet
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+150:
+  name:
+    - Animax
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+527:
+  name:
+    - Asian Food Network
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+674:
+  name:
+    - Astro Cricket
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+512:
+  name:
+    - AXN
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+220:
+  name:
+    - BBC Earth
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+502:
+  name:
+    - BBC Lifestyle
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+638:
+  name:
+    - beIN SPORTS 1
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+639:
+  name:
+    - beIN SPORTS 2
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+643:
+  name:
+    - beIN SPORTS 3
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+644:
+  name:
+    - beIN SPORTS 4
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+645:
+  name:
+    - beIN SPORTS 5
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+321:
+  name:
+    - Bloomberg Television
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+445:
+  name:
+    - Cartoonito
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+443:
+  name:
+    - Cartoon Network
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+447:
+  name:
+    - CBeebies
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+541:
+  name:
+    - CCTV-1
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+542:
+  name:
+    - CCTV-4
+  scraper:
+    nowplayer: 
+  refresh: today
+  recap: 7
+  preview: 0
+
