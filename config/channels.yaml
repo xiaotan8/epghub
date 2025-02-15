@@ -381,9 +381,10 @@ PCC:
 
 PIN:
   name:
-    - Phoenix InfoNews Channel
+    - 鳳凰衛視資訊台
   scraper:
     mytvsuper: 
+  lang: en
   refresh: today
   recap: 3
   preview: 0
