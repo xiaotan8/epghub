@@ -1,11 +1,6 @@
-import re
 from lxml import etree
-from xml.sax.saxutils import escape  # 导入escape函数
-
-# 清理非法字符
-def clean_text(text: str) -> str:
-    # 移除非打印字符，包括 NULL 字节等
-    return re.sub(r'[\x00-\x1f\x7f]', '', text)
+from epg.model import Channel  # 导入 Channel 类
+from datetime import datetime
 
 def write(filepath: str, channels: list[Channel], info: str = "") -> bool:
     root = etree.Element("tv")
