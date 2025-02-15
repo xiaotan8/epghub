@@ -4,7 +4,7 @@ CWIN:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 C18:
@@ -13,7 +13,7 @@ C18:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 C28:
@@ -22,7 +22,7 @@ C28:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 TVG:
@@ -31,7 +31,7 @@ TVG:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 J:
@@ -41,7 +41,7 @@ J:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 B:
@@ -50,7 +50,7 @@ B:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 C:
@@ -61,7 +61,7 @@ C:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 P:
@@ -70,7 +70,7 @@ P:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CTVC:
@@ -79,7 +79,7 @@ CTVC:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CTVS:
@@ -88,7 +88,7 @@ CTVS:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CDR3:
@@ -97,7 +97,7 @@ CDR3:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 TVO:
@@ -106,7 +106,7 @@ TVO:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CTVE:
@@ -115,7 +115,7 @@ CTVE:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CCOC:
@@ -124,7 +124,7 @@ CCOC:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 KID:
@@ -133,7 +133,7 @@ KID:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 ZOO:
@@ -142,7 +142,7 @@ ZOO:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CNIKO:
@@ -151,7 +151,7 @@ CNIKO:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CNIJR:
@@ -160,7 +160,7 @@ CNIJR:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CCLM:
@@ -169,7 +169,7 @@ CCLM:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CMAM:
@@ -178,7 +178,7 @@ CMAM:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CTHR:
@@ -187,7 +187,7 @@ CTHR:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CCCM:
@@ -196,7 +196,7 @@ CCCM:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CMC:
@@ -205,7 +205,7 @@ CMC:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CRTX:
@@ -214,7 +214,7 @@ CRTX:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 POPC:
@@ -223,7 +223,7 @@ POPC:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CKIX:
@@ -232,7 +232,7 @@ CKIX:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 LNH:
@@ -241,7 +241,7 @@ LNH:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 LN4:
@@ -250,7 +250,7 @@ LN4:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 SMS:
@@ -259,7 +259,7 @@ SMS:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CRTE:
@@ -268,7 +268,7 @@ CRTE:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CAXN:
@@ -277,7 +277,7 @@ CAXN:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CANI:
@@ -286,7 +286,7 @@ CANI:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CJTV:
@@ -295,7 +295,7 @@ CJTV:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CTS1:
@@ -304,7 +304,7 @@ CTS1:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CRE:
@@ -313,7 +313,7 @@ CRE:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 FBX:
@@ -322,7 +322,7 @@ FBX:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CMEZ:
@@ -331,7 +331,7 @@ CMEZ:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CC1:
@@ -340,7 +340,7 @@ CC1:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CGD:
@@ -349,7 +349,7 @@ CGD:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CGE:
@@ -358,7 +358,7 @@ CGE:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 DTV:
@@ -367,7 +367,7 @@ DTV:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 PCC:
@@ -376,7 +376,7 @@ PCC:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 PIN:
@@ -385,7 +385,7 @@ PIN:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 PHK:
@@ -394,7 +394,7 @@ PHK:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CMN1:
@@ -403,7 +403,7 @@ CMN1:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CTSN:
@@ -412,7 +412,7 @@ CTSN:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CCNA:
@@ -421,7 +421,7 @@ CCNA:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CJAZ:
@@ -430,7 +430,7 @@ CJAZ:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CF24:
@@ -439,7 +439,7 @@ CF24:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CDW1:
@@ -448,7 +448,7 @@ CDW1:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CNHK:
@@ -457,7 +457,7 @@ CNHK:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 CARI:
@@ -466,7 +466,7 @@ CARI:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 EVT2:
@@ -475,7 +475,7 @@ EVT2:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 EVT3:
@@ -484,7 +484,7 @@ EVT3:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 EVT4:
@@ -493,7 +493,7 @@ EVT4:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 EVT5:
@@ -502,7 +502,7 @@ EVT5:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 EVT6:
@@ -511,7 +511,7 @@ EVT6:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
 
 TEST:
@@ -520,5 +520,5 @@ TEST:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
+  recap: 3
   preview: 0
