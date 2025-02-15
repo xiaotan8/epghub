@@ -1,16 +1,15 @@
-J:
+CWIN:
   name:
-    - 翡翠台
-    - 翡翠台(超高清)
+    - SUPER FREE
   scraper:
     mytvsuper: 
   refresh: today
   recap: 7
   preview: 0
 
-CWIN:
+C18:
   name:
-    - SUPER FREE
+    - myTV SUPER 18台
   scraper:
     mytvsuper: 
   refresh: today
@@ -29,6 +28,16 @@ C28:
 TVG:
   name:
     - 黃金翡翠台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+J:
+  name:
+    - 翡翠台
+    - 翡翠台(超高清)
   scraper:
     mytvsuper: 
   refresh: today
@@ -64,10 +73,99 @@ P:
   recap: 7
   preview: 0
 
+CTVC:
+  name:
+    - 千禧經典台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+CTVS:
+  name:
+    - 亞洲劇台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+CDR3:
+  name:
+    - 華語劇台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+TVO:
+  name:
+    - 黃金華劇台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
 
 CTVE:
   name:
     - 娛樂新聞台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+CCOC:
+  name:
+    - 戲曲台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+KID:
+  name:
+    - SUPER Kids Channel
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+ZOO:
+  name:
+    - ZooMoo
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+CNIKO:
+  name:
+    - Nickelodeon
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+CNIJR:
+  name:
+    - Nick Jr
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+CCLM:
+  name:
+    - 粵語片台
   scraper:
     mytvsuper: 
   refresh: today
@@ -83,9 +181,126 @@ CMAM:
   recap: 7
   preview: 0
 
+CTHR:
+  name:
+    - Thrill
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+CCCM:
+  name:
+    - 天映經典頻道
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+CMC:
+  name:
+    - 中國電影頻道
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+CRTX:
+  name:
+    - ROCK Action
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
 POPC:
   name:
     - PopC
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+CKIX:
+  name:
+    - KIX
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+LNH:
+  name:
+    - Love Nature HD
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+LN4:
+  name:
+    - Love Nature 4K
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+SMS:
+  name:
+    - Global Trekker
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+CRTE:
+  name:
+    - ROCK綜藝娛樂
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+CAXN:
+  name:
+    - AXN
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+CANI:
+  name:
+    - Animax
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+CJTV:
+  name:
+    - tvN
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+CTS1:
+  name:
+    - 無線衛星亞洲台
   scraper:
     mytvsuper: 
   refresh: today
@@ -101,10 +316,54 @@ CRE:
   recap: 7
   preview: 0
 
+FBX:
+  name:
+    - FashionBox
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+CMEZ:
+  name:
+    - Mezzo Live HD
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
 CC1:
   name:
     - 中央電視台綜合頻道 (港澳版)
-    - CCTV-1
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+CGD:
+  name:
+    - CGTN (中國環球電視網)記錄頻道
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+CGE:
+  name:
+    - CGTN (中國環球電視網)英語頻道
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+DTV:
+  name:
+    - 東方衛視國際頻道
   scraper:
     mytvsuper: 
   refresh: today
@@ -132,6 +391,132 @@ PIN:
 PHK:
   name:
     - 鳳凰衛視香港台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+CMN1:
+  name:
+    - 神州新聞台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+CTSN:
+  name:
+    - 無線衛星新聞台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+CCNA:
+  name:
+    - 亞洲新聞台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+CJAZ:
+  name:
+    - 半島電視台英語頻道
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+CF24:
+  name:
+    - France 24
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+CDW1:
+  name:
+    - DW
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+CNHK:
+  name:
+    - NHK World-Japan
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+CARI:
+  name:
+    - Arirang TV
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+EVT2:
+  name:
+    - myTV SUPER直播足球2台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+EVT3:
+  name:
+    - myTV SUPER直播足球3台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+EVT4:
+  name:
+    - myTV SUPER直播足球4台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+EVT5:
+  name:
+    - myTV SUPER直播足球5台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+EVT6:
+  name:
+    - myTV SUPER直播足球6台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 7
+  preview: 0
+
+TEST:
+  name:
+    - 測試頻道
   scraper:
     mytvsuper: 
   refresh: today
