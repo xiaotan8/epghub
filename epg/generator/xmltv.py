@@ -1,10 +1,11 @@
-# https://github.com/XMLTV/xmltv/blob/master/xmltv.dtd
-
+import re
 from lxml import etree
 from xml.sax.saxutils import escape  # 导入escape函数
-from epg.model import Channel
-from datetime import datetime
 
+# 清理非法字符
+def clean_text(text: str) -> str:
+    # 移除非打印字符，包括 NULL 字节等
+    return re.sub(r'[\x00-\x1f\x7f]', '', text)
 
 def write(filepath: str, channels: list[Channel], info: str = "") -> bool:
     root = etree.Element("tv")
@@ -50,7 +51,7 @@ def write(filepath: str, channels: list[Channel], info: str = "") -> bool:
                 sub_title.text = escape(program.sub_title)  # 转义副标题
             if program.desc != "":
                 desc = etree.SubElement(program_element, "desc")
-                desc.text = escape(program.desc)  # 转义描述
+                desc.text = escape(clean_text(program.desc))  # 清理并转义描述
 
     tree.write(filepath, pretty_print=True, xml_declaration=True, encoding="utf-8")
     return True
