@@ -4,7 +4,9 @@ from epg.model import Channel
 from datetime import datetime
 
 def clean_text(text: str) -> str:
-    """Remove all control characters except for newline and tab."""
+    """Remove all control characters except for newline and tab. Returns an empty string if input is None."""
+    if text is None:
+        return ""  # Return an empty string if text is None
     return re.sub(r'[\x00-\x1F\x7F-\x9F]', '', text)
 
 def write(filepath: str, channels: list[Channel], info: str = "") -> bool:
