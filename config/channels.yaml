@@ -41,8 +41,8 @@ J:
   scraper:
     mytvsuper: 
   refresh: today
-  recap: 7
-  preview: 7
+  recap: 3
+  preview: 0
 
 B:
   name:
