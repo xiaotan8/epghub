@@ -93,7 +93,7 @@ templateLoader = FileSystemLoader(searchpath=os.path.join(os.getcwd(), "template
 env = Environment(loader=templateLoader)
 template = env.get_template("index.html.jinja2")
 
-title = "MytvSuper EPG"
+title = "myTV SUPER 節目表"
 channel_list = [channel.metadata["name"][0] for channel in channels]
 first_channel = channel_list[0]
 channel_list = channel_list[1:]
