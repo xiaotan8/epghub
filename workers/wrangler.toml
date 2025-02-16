@@ -2,4 +2,5 @@ name = "epg-updater-trigger"
 main = "trigger.js"
 compatibility_date = "2025-02-15"
 workers_dev = false
-account_id = "99475a57aed1c75f9d942f99b7adf379"  # 从 Cloudflare 帐户中获取
+
+account_id = "99475a57aed1c75f9d942f99b7adf379"  # 只需要保留 account_id
