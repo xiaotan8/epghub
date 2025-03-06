@@ -384,7 +384,7 @@ PIN:
     - 鳳凰衛視資訊台
   scraper:
     mytvsuper: 
-  lang: en
+  lang: tc
   refresh: today
   recap: 3
   preview: 0
