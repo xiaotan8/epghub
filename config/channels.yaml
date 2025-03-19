@@ -523,12 +523,3 @@ TEST:
   refresh: today
   recap: 3
   preview: 0
-
-332:
-  name:
-    - Now新聞台
-  scraper:
-    nowtv:
-  refresh: today
-  recap: 3
-  preview: 0
