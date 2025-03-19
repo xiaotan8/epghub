@@ -65,25 +65,33 @@ async def fetch_programs(site_channel, date):
         print(f"Error fetching EPG for {site_channel['site_id']}: {e}")
         return []
 
-async def update(channel: Channel, scraper_id: str | None = None, dt: datetime.date = None):
+async def update(channel: Channel, scraper_params: str, dt: datetime.date = None):
     if dt is None:
         dt = datetime.datetime.today().date()
     
-    channel_id = str(channel.id) if scraper_id is None else str(scraper_id)
+    if "@http" in scraper_params:
+        scraper_id, scraper_url = scraper_params.split("@http", 1)
+        scraper_url = "http" + scraper_url
+    else:
+        scraper_id = None
+        scraper_url = scraper_params
+    
+    channel_id = str(channel.id) if scraper_id is None else scraper_id
     lang = channel.metadata.get("lang", "zh")
-    channel.flush(dt)  # 清空当天节目
     
     site_channel = {"site_id": channel_id, "id0": channel_id, "lang": lang}
     programs = await fetch_programs(site_channel, dt)
     
-    for program in programs:
-        channel.programs.append(Program(
-            program["title"],
-            program["start"],
-            program["stop"],
-            f"{channel_id}@nowtv",
-            program["description"]
-        ))
-    
-    channel.metadata.update({"last_update": datetime.datetime.now().astimezone()})
-    return True
+    if programs:
+        channel.flush(dt)  # 仅当有新节目时才清空
+        for program in programs:
+            channel.programs.append(Program(
+                program["title"],
+                program["start"],
+                program["stop"],
+                f"{channel_id}@nowtv",
+                program["description"]
+            ))
+        channel.metadata.update({"last_update": datetime.datetime.now().astimezone()})
+        return True
+    return False
