@@ -67,3 +67,15 @@ def get_channels(lang):
             })
     
     return channels
+
+def update(channel, date):
+    """更新指定频道的节目数据"""
+    url = get_url(channel, date)
+    headers = get_headers(channel)
+    try:
+        response = requests.get(url, headers=headers)
+        response.raise_for_status()
+        return parse_programs(response.text)
+    except requests.RequestException as e:
+        print(f"Error fetching EPG data for {channel['site_id']}: {e}")
+        return []
