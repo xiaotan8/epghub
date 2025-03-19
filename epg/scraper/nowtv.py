@@ -32,14 +32,16 @@ def parse_items(content):
     except json.JSONDecodeError:
         return []
 
-def parse_programs(content):
+def parse_programs(content, site_channel, date):
     programs = []
     items = parse_items(content)
     for item in items:
         programs.append({
             "title": item["name"],
             "start": parse_start(item),
-            "stop": parse_stop(item)
+            "stop": parse_stop(item),
+            "description": item.get("description", ""),
+            "episode": item.get("episode", "")
         })
     return programs
 
@@ -68,14 +70,41 @@ def get_channels(lang):
     
     return channels
 
-def update(channel, date):
+def update(channel, scraper_id=None, dt=None):
     """更新指定频道的节目数据"""
-    url = get_url(channel, date)
-    headers = get_headers(channel)
+    if dt is None:
+        dt = datetime.today().date()
+    
+    channel_id = channel['site_id'] if scraper_id is None else scraper_id
+    lang = channel.get("lang", "zh_tw")
+    
+    channel["programs"] = []  # 清空旧数据
+    
+    site_channel = {
+        "site_id": channel_id,
+        "lang": lang,
+    }
+    
     try:
+        url = get_url(site_channel, dt)
+        headers = get_headers(site_channel)
         response = requests.get(url, headers=headers)
         response.raise_for_status()
-        return parse_programs(response.text)
+        data = response.text
     except requests.RequestException as e:
-        print(f"Error fetching EPG data for {channel['site_id']}: {e}")
-        return []
+        print(f"Error fetching EPG data for {channel_id}: {e}")
+        return False
+    
+    programs = parse_programs(data, site_channel, dt)
+    for program in programs:
+        channel["programs"].append({
+            "title": program["title"],
+            "start": program["start"],
+            "stop": program["stop"],
+            "source": f"{channel_id}@nowplayer.now.com",
+            "description": program["description"],
+            "episode": program["episode"],
+        })
+    
+    channel["last_update"] = datetime.now().astimezone()
+    return True
