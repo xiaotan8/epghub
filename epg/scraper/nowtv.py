@@ -1,8 +1,14 @@
+try:
+    import httpx
+except ImportError:
+    import os
+    os.system("pip install httpx")
+    import httpx
 import asyncio
 import datetime
 import json
 import re
-import httpx
+##import httpx
 from epg.model import Channel, Program
 from . import tz_hong_kong
 
