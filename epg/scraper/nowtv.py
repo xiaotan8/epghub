@@ -1,14 +1,8 @@
-try:
-    import httpx
-except ImportError:
-    import os
-    os.system("pip install httpx")
-    import httpx
 import asyncio
 import datetime
 import json
 import re
-##import httpx
+import httpx
 from epg.model import Channel, Program
 from . import tz_hong_kong
 
@@ -35,7 +29,7 @@ async def get_channels():
         return []
     channels_data = json.loads(match.group(1)[:-2])
     channels = [
-        {"site_id": ch_id, "name": data['name'], "id0": ch_id, "lang": "zh"}
+        {"site_id": str(ch_id), "name": data['name'], "id0": str(ch_id), "lang": "zh"}
         for ch_id, data in channels_data.items() if "name" in data
     ]
     return channels
@@ -71,8 +65,11 @@ async def fetch_programs(site_channel, date):
         print(f"Error fetching EPG for {site_channel['site_id']}: {e}")
         return []
 
-async def update(channel: Channel, scraper_id: str | None = None, dt: datetime.date = datetime.datetime.today().date()):
-    channel_id = channel.id if scraper_id is None else scraper_id
+async def update(channel: Channel, scraper_id: str | None = None, dt: datetime.date = None):
+    if dt is None:
+        dt = datetime.datetime.today().date()
+    
+    channel_id = str(channel.id) if scraper_id is None else str(scraper_id)
     lang = channel.metadata.get("lang", "zh")
     channel.flush(dt)  # 清空当天节目
     
