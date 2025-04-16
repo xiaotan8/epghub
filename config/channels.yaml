@@ -37,7 +37,6 @@ TVG:
 J:
   name:
     - 翡翠台
-    - 翡翠台(超高清)
   scraper:
     mytvsuper: 
   refresh: today
@@ -56,8 +55,6 @@ B:
 C:
   name:
     - 無綫新聞台
-    - 互動窗 1
-    - 互動窗 2
   scraper:
     mytvsuper: 
   refresh: today
@@ -384,7 +381,6 @@ PIN:
     - 鳳凰衛視資訊台
   scraper:
     mytvsuper: 
-  lang: tc
   refresh: today
   recap: 3
   preview: 0
@@ -398,9 +394,117 @@ PHK:
   recap: 3
   preview: 0
 
-CMN1:
+CC4:
   name:
-    - 神州新聞台
+    - 中國中央電視台中文國際頻道
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 3
+  preview: 0
+
+CCE:
+  name:
+    - 中國中央電視台娛樂頻道
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 3
+  preview: 0
+
+CCO:
+  name:
+    - 中國中央電視台戲曲頻道
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 3
+  preview: 0
+
+YNTV:
+  name:
+    - 雲南瀾湄國際衛視
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 3
+  preview: 0
+
+AHTV:
+  name:
+    - 安徽廣播電視台國際頻道
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 3
+  preview: 0
+
+BJTV:
+  name:
+    - 北京電視台國際頻道
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 3
+  preview: 0
+
+GXTV:
+  name:
+    - 廣西電視台國際頻道
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 3
+  preview: 0
+
+FJTV:
+  name:
+    - 福建海峽衛視國際頻道
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 3
+  preview: 0
+
+HNTV:
+  name:
+    - 湖南電視台國際頻道
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 3
+  preview: 0
+
+JSTV:
+  name:
+    - 江蘇電視台國際頻道
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 3
+  preview: 0
+
+GBTV:
+  name:
+    - 廣東廣播電視台大灣區衛視頻道
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 3
+  preview: 0
+
+ZJTV:
+  name:
+    - 浙江電視台國際頻道
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 3
+  preview: 0
+
+SZTV:
+  name:
+    - 深圳衛視國際頻道
   scraper:
     mytvsuper: 
   refresh: today
@@ -509,6 +613,15 @@ EVT5:
 EVT6:
   name:
     - myTV SUPER直播足球6台
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 3
+  preview: 0
+
+EVT7:
+  name:
+    - myTV SUPER直播足球7台
   scraper:
     mytvsuper: 
   refresh: today
