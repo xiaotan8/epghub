@@ -639,3 +639,93 @@ TEST:
   refresh: today
   recap: 3
   preview: 0
+
+SVAR:
+  name:
+    - SUPER獎門人
+  scraper:
+    mytvsuper:
+  refresh: today
+  recap: 3
+  preview: 0
+
+SEYT:
+  name:
+    - SUPER EYT
+  scraper:
+    mytvsuper:
+  refresh: today
+  recap: 3
+  preview: 0
+
+SFOO:
+  name:
+    - SUPER識食
+  scraper:
+    mytvsuper:
+  refresh: today
+  recap: 3
+  preview: 0
+
+STRA:
+  name:
+    - SUPER識嘆
+  scraper:
+    mytvsuper:
+  refresh: today
+  recap: 3
+  preview: 0
+
+SMUS:
+  name:
+    - SUPER Music
+  scraper:
+    mytvsuper:
+  refresh: today
+  recap: 3
+  preview: 0
+
+SGOL:
+  name:
+    - SUPER金曲
+  scraper:
+    mytvsuper:
+  refresh: today
+  recap: 3
+  preview: 0
+
+SSIT:
+  name:
+    - SUPER煲劇
+  scraper:
+    mytvsuper:
+  refresh: today
+  recap: 3
+  preview: 0
+
+STVM:
+  name:
+    - SUPER劇場
+  scraper:
+    mytvsuper:
+  refresh: today
+  recap: 3
+  preview: 0
+
+SDOC:
+  name:
+    - SUPER話當年
+  scraper:
+    mytvsuper:
+  refresh: today
+  recap: 3
+  preview: 0
+
+SSPT:
+  name:
+    - SUPER Sports
+  scraper:
+    mytvsuper:
+  refresh: today
+  recap: 3
+  preview: 0
