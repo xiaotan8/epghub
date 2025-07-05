@@ -385,6 +385,14 @@ CAXN:
   refresh: today
   recap: 3
   preview: 0
+RKEX:
+  name:
+    - ROCK Extreme
+  scraper:
+    mytvsuper: 
+  refresh: today
+  recap: 3
+  preview: 0  
 CANI:
   name:
     - Animax
