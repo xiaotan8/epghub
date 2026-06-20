@@ -1,97 +1,97 @@
 [
     {
         "ename": "cctv1",
-        "chname": "CCTV-1 综合",
+        "chname": "CCTV1综合",
         "type": "央视"
     },
     {
         "ename": "cctv2",
-        "chname": "CCTV-2 财经",
+        "chname": "CCTV2财经",
         "type": "央视"
     },
     {
         "ename": "cctv3",
-        "chname": "CCTV-3 综艺",
+        "chname": "CCTV3综艺",
         "type": "央视"
     },
     {
         "ename": "cctv4",
-        "chname": "CCTV-4 (亚洲)",
+        "chname": "CCTV4中文国际",
         "type": "央视"
     },
     {
         "ename": "cctveurope",
-        "chname": "CCTV-4 (欧洲)",
+        "chname": "CCTV4欧洲",
         "type": "央视"
     },
     {
         "ename": "cctvamerica",
-        "chname": "CCTV-4 (美洲)",
+        "chname": "CCTV4美洲",
         "type": "央视"
     },
     {
         "ename": "cctv5",
-        "chname": "CCTV-5 体育",
+        "chname": "CCTV5体育",
         "type": "央视"
     },
     {
         "ename": "cctv5plus",
-        "chname": "CCTV体育赛事",
+        "chname": "CCTV5+体育赛事",
         "type": "央视"
     },
     {
         "ename": "cctv6",
-        "chname": "CCTV-6 电影",
+        "chname": "CCTV6电影",
         "type": "央视"
     },
     {
         "ename": "cctv7",
-        "chname": "CCTV-7 军事农业",
+        "chname": "CCTV7国防军事",
         "type": "央视"
     },
     {
         "ename": "cctv8",
-        "chname": "CCTV-8 电视剧",
+        "chname": "CCTV8电视剧",
         "type": "央视"
     },
     {
         "ename": "cctvdoc",
-        "chname": "CCTV-9 纪录(英)",
+        "chname": "CCTV9纪录(英)",
         "type": "央视"
     },
     {
         "ename": "cctvjilu",
-        "chname": "CCTV-9 纪录",
+        "chname": "CCTV9纪录",
         "type": "央视"
     },
     {
         "ename": "cctv10",
-        "chname": "CCTV-10 科教",
+        "chname": "CCTV10科教",
         "type": "央视"
     },
     {
         "ename": "cctv11",
-        "chname": "CCTV-11 戏曲",
+        "chname": "CCTV11戏曲",
         "type": "央视"
     },
     {
         "ename": "cctv12",
-        "chname": "CCTV-12 社会与法",
+        "chname": "CCTV12社会与法",
         "type": "央视"
     },
     {
         "ename": "cctv13",
-        "chname": "CCTV-13 新闻",
+        "chname": "CCTV13新闻",
         "type": "央视"
     },
     {
         "ename": "cctvchild",
-        "chname": "CCTV-14 少儿",
+        "chname": "CCTV14少儿",
         "type": "央视"
     },
     {
         "ename": "cctv15",
-        "chname": "CCTV-15 音乐",
+        "chname": "CCTV15音乐",
         "type": "央视"
     },
     {
